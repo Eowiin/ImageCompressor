@@ -39,6 +39,26 @@ To convert the output of the program to XPM format, use the `xpmlmg` binary.
 
 Now you can use an online converter to see your new image.
 
+## Examples
+
+Original image
+
+![alt text][original]
+
+[original]: https://github.com/Eowiin/ImageCompressor/blob/main/.github/images/shrek.png
+
+Compressed with 2 clusters and convergence limit at 0.8
+
+![alt text][clusters2]
+
+[clusters2]: https://github.com/Eowiin/ImageCompressor/blob/main/.github/images/shrek_cluster2.jpg
+
+Compressed with 8 clusters and convergence limit at 0.8
+
+![alt text][clusters8]
+
+[clusters8]: https://github.com/Eowiin/ImageCompressor/blob/main/.github/images/shrek_cluster8.jpg
+
 ## Tests
 
 | Category       | Percentage | Tests | Crash ? |
