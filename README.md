@@ -73,8 +73,3 @@ Compressed with 8 clusters and convergence limit at 0.8
 | End score      | 91.7%      | 44/48 | No      |
 
 Made with [Justin Thibault](https://github.com/jThiba)
-
-___
-
-Beware of -42 Epitech students !
-
